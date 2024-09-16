@@ -1,6 +1,6 @@
 name: "Beszel Agent"
 description: "WIP"
-version: "1.0.4"
+version: "1.0.5"
 slug: "beszel_agent"
 init: false
 legacy: true
